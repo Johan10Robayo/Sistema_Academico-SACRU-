@@ -2,7 +2,7 @@
 SACRU (sistemas académico de recursos universitarios) es una aplicación de escritorio que administra los recursos académicos de estudiantes y profesores de la universidad de los llanos (software de prueba).
 
 ## Roles de usuarios en el sistema
-* Administrador: puede modificar información del sistema siempre y cuando halla un motivo legal
+* Administrador: puede modificar información del sistema siempre y cuando haya un motivo legal
 * Estudiante-pregrado: Puede administrar su información personal, solicitar la factura de su matricula y realizar pagos por multas o de otros tipos 
 * Estudiante-postgrado: Puede administrar su información personal y solicitar la factura de su matricula y  realizar pagos por multas o de otros tipos 
 * Profesor: puede administrar su información personal , solicitar salas y subir notas de las asignaturas asignadas
